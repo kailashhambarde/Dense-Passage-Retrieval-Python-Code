@@ -24,5 +24,12 @@
      - extractive_reader_train_cfg.yaml
      - gen_embs.yaml
 
+   - # `dpr`
+      - `data`
+      - `indexer`
+      - `models`
+      - `utils`
+     
+
 
     

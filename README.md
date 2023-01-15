@@ -26,6 +26,13 @@
 
    - # `dpr`
       - `data`
+         - init.py
+         - biencoder_data.py
+         - download_data.py
+         - qa_validation.py
+         - reader_data.py
+         - retriever_data.py
+         - tables.py
       - `indexer`
       - `models`
       - `utils`

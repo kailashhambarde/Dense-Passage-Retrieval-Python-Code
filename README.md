@@ -4,25 +4,20 @@
 
 ## Folder & File Structure
 
-+ - Folders
-  
-   - conf
-     - ctx_sources
++ - **Folders**
+   - # `conf`
+     - `ctx_sources`
        - default_sorces.yaml
-
-     - datasets
+     - `datasets`
        - encoder_train_default.yaml
        - retriever_default.yaml
-
-     - encoder
+     - `encoder`
        - hf_bert.yaml
-
-     - train
+     - `train`
        - biencoder_default.yaml
        - biencoder_local.yaml
        - biencoder_nq.yaml
        - extractive_reader_default.yaml
-
      - README.MD
      - biencoder_train_cfg.yaml
      - dense_retriever.yaml

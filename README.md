@@ -52,7 +52,13 @@
       - init.py
       - options.py
 
-     
+   - # `dense_retriever.py`
+   -  # `generate_dense_embeddings.py`
+   -   # `setup.py`
+   -   # `train_dense_encoder.py`
+   - # `train_extractive_reader.py`
+
+
 
 
     

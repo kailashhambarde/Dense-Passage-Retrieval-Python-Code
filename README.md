@@ -6,28 +6,28 @@
 
 + - Folders
   
-  + - conf
-    + - ctx_sources
-      + - default_sorces.yaml
+   - conf
+     - ctx_sources
+       - default_sorces.yaml
 
-  + - datasets
-    + - encoder_train_default.yaml
-    + - retriever_default.yaml
+   - datasets
+     - encoder_train_default.yaml
+     - retriever_default.yaml
 
-+ - encoder
-  + - hf_bert.yaml
+   - encoder
+     - hf_bert.yaml
 
-+ - train
-  + - biencoder_default.yaml
-  + - biencoder_local.yaml
-  + - biencoder_nq.yaml
-  + - extractive_reader_default.yaml
+   - train
+     - biencoder_default.yaml
+     - biencoder_local.yaml
+     - biencoder_nq.yaml
+     - extractive_reader_default.yaml
 
-+ - README.MD
-+ - biencoder_train_cfg.yaml
-+ - dense_retriever.yaml
-+ - extractive_reader_train_cfg.yaml
-+ - gen_embs.yaml
+   - README.MD
+   - biencoder_train_cfg.yaml
+   - dense_retriever.yaml
+   - extractive_reader_train_cfg.yaml
+   - gen_embs.yaml
 
 
     

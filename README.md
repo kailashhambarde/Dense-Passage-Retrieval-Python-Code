@@ -34,7 +34,14 @@
          - retriever_data.py
          - tables.py
       - `indexer`
+         - faiss_indexers.py
       - `models`
+         - init.py
+         - biencoder.py
+         - fairseq_models.py
+         - hf_models.py
+         - pytext_models.py
+         - reader.py
       - `utils`
      
 
